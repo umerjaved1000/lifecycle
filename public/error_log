@@ -1,0 +1,4 @@
+[24-Jan-2019 21:33:50 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Mail as Mail because the name is already in use in /home/tmsgateway/public_html/app/Http/Controllers/MailController.php on line 11
+[24-Jan-2019 21:36:17 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Mail as Mail because the name is already in use in /home/tmsgateway/public_html/app/Http/Controllers/MailController.php on line 10
+[24-Jan-2019 21:36:20 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Mail as Mail because the name is already in use in /home/tmsgateway/public_html/app/Http/Controllers/MailController.php on line 10
+[24-Jan-2019 21:36:53 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Mail as Mail because the name is already in use in /home/tmsgateway/public_html/app/Http/Controllers/MailController.php on line 9
